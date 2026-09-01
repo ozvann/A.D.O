@@ -35,9 +35,11 @@ L'assistant devra être capable de :
 ### Vue globale du projet
 
 
-PHASE 01  Projet Android
+PHASE 01  Projet Android ;
+
    ↓
 PHASE 02  Interface minimale
+
    ↓
 PHASE 03  État de l'assistant
    ↓
@@ -388,7 +390,7 @@ Elle indique simplement que le microphone n'est pas disponible.
 
 ---
 
-# 🟢 PHASE 05 — Speech-to-Text
+# PHASE 05 — Speech-to-Text
 
 ## Objectif
 
