@@ -604,7 +604,7 @@ Le système de commandes fonctionne même sans microphone.
 
 ---
 
-# 🟢 PHASE 09 — CommandParser
+# PHASE 09 — CommandParser
 
 ## Objectif
 
@@ -1016,7 +1016,7 @@ L'assistant demande lequel choisir.
 
 ---
 
-# 🟢 PHASE 15 — Appel sortant
+# PHASE 15 — Appel sortant
 
 ## 15.01 — Créer `CALL_CONTACT`
 
@@ -1628,7 +1628,7 @@ Le comportement respecte les restrictions de sécurité Android.
 
 ---
 
-# 🟢 PHASE 27 — Fonctionnement hors ligne
+# PHASE 27 — Fonctionnement hors ligne
 
 ## 27.01 — Identifier les dépendances réseau
 
