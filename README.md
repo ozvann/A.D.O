@@ -68,12 +68,12 @@ Projet compilable
 
 ### À faire
 
-- [.] Créer un nouveau projet.
-- [v] Choisir Java.
-- [v] Définir le nom de l'application.
-- [v] Définir le package.
-- [v] Choisir le SDK minimum adapté au projet.
-- [v] Créer le projet.
+- [x] Créer un nouveau projet.
+- [x] Choisir Java.
+- [x] Définir le nom de l'application.
+- [x] Définir le package.
+- [x] Choisir le SDK minimum adapté au projet.
+- [x] Créer le projet.
 
 ### Résultat attendu
 
@@ -85,9 +85,9 @@ Le projet apparaît correctement dans Android Studio.
 
 ### À faire
 
-- [v] Synchroniser Gradle.
-- [v] Compiler.
-- [v] Corriger les éventuelles erreurs.
+- [x] Synchroniser Gradle.
+- [x] Compiler.
+- [x] Corriger les éventuelles erreurs.
 
 ### Résultat attendu
 
@@ -100,8 +100,8 @@ La compilation se termine avec succès.
 
 ### À faire
 
-- [v] Installer sur le téléphone.
-- [v] Ouvrir l'application.
+- [x] Installer sur le téléphone.
+- [x] Ouvrir l'application.
 
 ### Résultat attendu
 
