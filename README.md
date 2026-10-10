@@ -45,10 +45,10 @@ Obtenir une application Android vide qui se compile et s'installe correctement.
 
 ### À faire
 
-- [*] Vérifier qu'Android Studio est installé.
-- [*] Vérifier que le SDK Android est installé.
-- [*] Vérifier qu'un appareil Android ou un émulateur est disponible.
-- [*] Vérifier que Gradle fonctionne.
+- [x] Vérifier qu'Android Studio est installé.
+- [x] Vérifier que le SDK Android est installé.
+- [x] Vérifier qu'un appareil Android ou un émulateur est disponible.
+- [x] Vérifier que Gradle fonctionne.
 
 ### Résultat attendu
 
@@ -68,12 +68,12 @@ Projet compilable
 
 ### À faire
 
-- [*] Créer un nouveau projet.
-- [*] Choisir Java.
-- [*] Définir le nom de l'application.
-- [*] Définir le package.
-- [*] Choisir le SDK minimum adapté au projet.
-- [*] Créer le projet.
+- [.] Créer un nouveau projet.
+- [v] Choisir Java.
+- [v] Définir le nom de l'application.
+- [v] Définir le package.
+- [v] Choisir le SDK minimum adapté au projet.
+- [v] Créer le projet.
 
 ### Résultat attendu
 
@@ -85,9 +85,9 @@ Le projet apparaît correctement dans Android Studio.
 
 ### À faire
 
-- [*] Synchroniser Gradle.
-- [*] Compiler.
-- [*] Corriger les éventuelles erreurs.
+- [v] Synchroniser Gradle.
+- [v] Compiler.
+- [v] Corriger les éventuelles erreurs.
 
 ### Résultat attendu
 
@@ -100,8 +100,8 @@ La compilation se termine avec succès.
 
 ### À faire
 
-- [*] Installer sur le téléphone.
-- [*] Ouvrir l'application.
+- [v] Installer sur le téléphone.
+- [v] Ouvrir l'application.
 
 ### Résultat attendu
 
