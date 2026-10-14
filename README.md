@@ -2191,6 +2191,9 @@ L'assistant commence à se rapprocher d'un véritable assistant vocal personnel.
 
 # PHASE 41 — IA optionnelle finale
 
+- [ ] Ajouter un calendrier permettant l'ajout d'évènement
+- [ ] Ajouter un minuteur / réveille / chronomètre
+- [ ] Ajouter un coin note
 - [ ] Ajouter une IA locale ou distante
 - [ ] Compréhension de formulations complexes
 - [ ] Extraction structurée des paramètres
